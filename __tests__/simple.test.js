@@ -1,15 +1,15 @@
-test('1 + 1 = 2', () => {
+test('Requirements X', () => {
   expect(1 + 1).toBe(2);
 });
 
-test('1 + 2 = 3', () => {
+test('Deployment Y', () => {
   expect(1 + 2).toBe(3);
 });
 
-test('2 + 2 = 4', () => {
+test('Heel belangrijk Z', () => {
   expect(2 + 2).toBe(4);
 });
 
-test('3 + 2 = 5', () => {
+test('Logica testing', () => {
   expect(3 + 2).toBe(5);
 });
