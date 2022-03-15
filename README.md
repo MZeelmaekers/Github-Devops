@@ -1,5 +1,4 @@
 # BitBucket Repo demo
-[Rkitek logo](https://event.fieldside.be/wp-content/themes/Impreza-child/images/logo/logo-rkitek.png)
 ## Intro Git
  - Commit regels
  - Testen 
